@@ -1,0 +1,65 @@
+# a,b,c,d = 1,1,1,1
+# print(a+b+c+d)
+
+
+# b,c = 2,5
+# print("%3f"%b**c)
+# print(int(1.9999999))
+
+
+# import math
+# rad = float(input("Enter the Radius of circle: "))
+# area = math.pi * rad**2
+# print("The Area of Circle is %3f" %area)
+
+
+# if (4<5 and 5<9):
+#     print("good: ")
+# else:
+#     print("bad")
+
+
+
+# a = int(input("Enter: "))
+# if a%2 == 0:
+#     print("The number is divisible by true ")
+# else:
+#     print("not ture")
+
+
+# num = int(input("How many numbers you need: "))
+# total = 0
+# for i in range (num):
+#     a = int(input("enter the number: "))
+#     total += a
+# avg = total/num
+# print(avg)
+
+
+# name = input("Enter: ")
+# pale = name[::-1]
+# print(pale == name)
+
+
+# number = int(input("Ebter your Number: "))
+# till_num = int(input("till which number you want: "))
+# for i in range (till_num):
+#     print(f"{number} X {i+1} = {number*(i+1)}")
+
+# n = int(input("Enter the number: "))
+# fact = 1
+# for i in range(n):
+#     fact = fact * (i+1)
+# print(fact)
+
+# num = int(input("Enter the number: "))
+# fact = 1    
+# for i in range (num):
+#     fact *= i+1
+# print(fact)
+      
+      
+# a = input("Enter")
+# print(a.isupper())
+
+
